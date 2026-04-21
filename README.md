@@ -5,4 +5,4 @@
 
 <h3>Aqui usamos a tag header, main e section, para fornecer um site clean e muito bem estruturado.</h3>
 
-<img src="https://github.com/benildabs-dev/congratulation/blob/master/img/mockup_ola.png?raw=true/>
+<img src="https://github.com/benildabs-dev/congratulation/blob/master/img/mockup_ola.png?raw=true"/>
